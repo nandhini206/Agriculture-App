@@ -76,7 +76,7 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 ![demo](https://github.com/nandhini206/Agriculture-App/blob/main/fertilizer.gif.gif)
 
 - ### Crop disease detection
-![demo]([https://media.giphy.com/media/OHm2GHQJTxPSYsNOPC/giphy.gif](https://github.com/nandhini206/Agriculture-App/blob/main/output%20pic/3.gif))
+![demo](https://github.com/nandhini206/Agriculture-App/blob/main/output%20pic/3.gif)
 
 - ### Author page
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4zOGJrdml6Y2J6bXBkeGk1MzdnN2ljeHA2NGM3OTFnOTF5ajFxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYKfK57T7t8Ndraf66/giphy.gif)
