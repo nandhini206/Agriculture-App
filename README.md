@@ -67,7 +67,7 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 ## Demo
 
 - ### Home Page 
-![demo](https://media.giphy.com/media/E2gXoMWeAf7pSeGhTt/giphy.gif)
+![demo](https://github.com/nandhini206/Agriculture-App/blob/main/home.gif)
 
 - ### Crop Recommendation
 ![demo](https://github.com/nandhini206/Agriculture-App/blob/main/crop.gif.gif)
