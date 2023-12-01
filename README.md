@@ -70,10 +70,10 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 ![demo](https://media.giphy.com/media/E2gXoMWeAf7pSeGhTt/giphy.gif)
 
 - ### Crop Recommendation
-![demo](https://github.com/nandhini206/Agriculture-App/blob/main/output%20pic/1.1.png)
+![demo](https://github.com/nandhini206/Agriculture-App/blob/main/crop.gif.gif)
 
 - ### Fertilizer Recommendation
-![demo](https://media.giphy.com/media/zaA162wBVQ9SAqC3cH/giphy.gif)
+![demo](https://github.com/nandhini206/Agriculture-App/blob/main/fertilizer.gif.gif)
 
 - ### Crop disease detection
 ![demo](https://media.giphy.com/media/OHm2GHQJTxPSYsNOPC/giphy.gif)
